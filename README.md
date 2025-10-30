@@ -20,6 +20,9 @@
 
 ## Extras
 
+## Roadmap de carreira
+https://roadmap.sh/
+
 ## Guia de Commits Semânticos
 - https://blog.geekhunter.com.br/implementar-o-commit-semantico/
 
