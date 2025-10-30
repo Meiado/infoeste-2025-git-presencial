@@ -109,6 +109,10 @@ main h2, main p {
     overflow: auto;
 }
 
+.social-wall::-webkit-scrollbar {
+    display: none;
+}
+
 .social-card {
     background-color: var(--card-background);
     color: var(--primary-text);
